@@ -112,12 +112,13 @@ pip install -r requirements.txt
 
 # Project Structure
 
-.
+.\
 |──data/\
 | |──preprocessed/\
 | | |──new_crop_yield.csv\
 | |──raw_data/\
 | | |──crop_yield.csv\
+| |__
 |──linear_regression/\
 | |──linear_regression_model\
 |──models/\
@@ -125,6 +126,7 @@ pip install -r requirements.txt
 | |──label_encoder.joblib\
 | |──linear_model.joblib\
 | |──one_hot_encoder.joblib\
+| |__\
 |──notebooks/\
 | |──exploration.ipynb\
 |──report/\
@@ -134,11 +136,13 @@ pip install -r requirements.txt
 | | |──crops_count_barplot.png\
 | | |──fertilizer_yield.png\
 | | |──rainfall_vs_yield.png\
+| |__\
 | \
 |──src_code/\
 | |──model_training.py\
 | |──preprocessing.py\
+| |__\
 |\
 |──main.py\
 |──README.md\
-|──requirements.txt\
+|──requirements.txt
