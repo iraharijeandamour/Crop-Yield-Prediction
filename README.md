@@ -113,32 +113,32 @@ pip install -r requirements.txt
 # Project Structure
 
 .
-|──data/
-| |──preprocessed/
-| | |──new_crop_yield.csv
-| |──raw_data/
-| | |──crop_yield.csv
-|──linear_regression/
-| |──linear_regression_model
-|──models/
-| |──binary_encoder.joblib
-| |──label_encoder.joblib
-| |──linear_model.joblib
-| |──one_hot_encoder.joblib
-|──notebooks/
-| |──exploration.ipynb
-|──report/
-| |──charts/
-| | |──crop_yield_fertilizer.png
-| | |──crop_yield_on_weather_condition.png
-| | |──crops_count_barplot.png
-| | |──fertilizer_yield.png
-| | |──rainfall_vs_yield.png
-|  
-|──src_code/
-| |──model_training.py
-| |──preprocessing.py
-|
-|──main.py
-|──README.md
-|──requirements.txt
+|──data/\
+| |──preprocessed/\
+| | |──new_crop_yield.csv\
+| |──raw_data/\
+| | |──crop_yield.csv\
+|──linear_regression/\
+| |──linear_regression_model\
+|──models/\
+| |──binary_encoder.joblib\
+| |──label_encoder.joblib\
+| |──linear_model.joblib\
+| |──one_hot_encoder.joblib\
+|──notebooks/\
+| |──exploration.ipynb\
+|──report/\
+| |──charts/\
+| | |──crop_yield_fertilizer.png\
+| | |──crop_yield_on_weather_condition.png\
+| | |──crops_count_barplot.png\
+| | |──fertilizer_yield.png\
+| | |──rainfall_vs_yield.png\
+| \
+|──src_code/\
+| |──model_training.py\
+| |──preprocessing.py\
+|\
+|──main.py\
+|──README.md\
+|──requirements.txt\
