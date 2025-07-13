@@ -77,7 +77,7 @@ Installation:
 
 # Clone the repository
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/iraharijeandamour/Crop-Yield-Prediction
 cd your-repo-name
 
 # Create a virtual environment (recommended)
