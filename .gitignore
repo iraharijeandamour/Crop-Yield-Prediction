@@ -3,7 +3,7 @@ do.py
 try.py
 linear_regression/__pycache__
 __pycache__/*
-.vscode
-.vscode/*
 src_code/__pycache__
 .gitignore
+.vscode
+.vscode/*
